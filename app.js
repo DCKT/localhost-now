@@ -33,5 +33,7 @@ http.createServer(function(req, res) {
   
 }).listen(1337);
 
+process.stdout.write("\033[33mWeb Server started on localhost:1337 \033[39m\n");
+
 
 
