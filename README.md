@@ -5,11 +5,8 @@ Am I the only one who is lazy to install Apache just for testing some HTML or Ja
 
 
 ## Setup
-Requirements :
+`npm install -g localhost-now`
 
-- Node.js 
-
-`npm install -g localhost-now
-
+You can now launch anywhere on your computer `localhost start`, it will create a web server on **localhost:1337**
 
 
