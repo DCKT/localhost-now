@@ -1,0 +1,27 @@
+{
+  "name": "SWS",
+  "version": "0.0.0",
+  "description": "A simple web server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DCKT/SWS.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "localhost"
+  ],
+  "author": "Deconinck Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCKT/SWS/issues"
+  },
+  "homepage": "https://github.com/DCKT/SWS",
+  "dependencies": {
+    "express": "^4.6.1"
+  }
+}
