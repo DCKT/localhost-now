@@ -1,14 +1,17 @@
 {
-  "name": "SWS",
-  "version": "0.0.0",
-  "description": "A simple web server",
-  "main": "app.js",
+  "name": "localhost-now",
+  "version": "0.0.1",
+  "description": "Launch a web server for static files with 1 command line",
+  "main": "lib/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DCKT/SWS.git"
+    "url": "https://github.com/DCKT/localhost-now.git"
+  },
+  "bin": {
+    "localhost": "./bin/localhost"
   },
   "keywords": [
     "web",
@@ -18,10 +21,7 @@
   "author": "Deconinck Thomas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DCKT/SWS/issues"
+    "url": "https://github.com/DCKT/localhost-now/issues"
   },
-  "homepage": "https://github.com/DCKT/SWS",
-  "dependencies": {
-    "express": "^4.6.1"
-  }
+  "homepage": "https://github.com/DCKT/localhost-now"
 }
