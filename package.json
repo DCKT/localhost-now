@@ -1,6 +1,6 @@
 {
   "name": "localhost-now",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Launch a web server for static files with 1 command line",
   "main": "lib/app.js",
   "scripts": {
