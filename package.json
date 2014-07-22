@@ -1,7 +1,7 @@
 {
   "name": "localhost-now",
-  "version": "0.0.2",
-  "description": "Launch a web server for static files with 1 command line",
+  "version": "0.0.3",
+  "description": "Launch a local web server for static files",
   "main": "lib/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
