@@ -1,6 +1,6 @@
 {
   "name": "localhost-now",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Launch a local web server for static files",
   "main": "lib/app.js",
   "scripts": {
