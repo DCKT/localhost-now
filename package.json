@@ -1,6 +1,6 @@
 {
   "name": "localhost-now",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Launch a local web server for static files",
   "main": "lib/app.js",
   "scripts": {
@@ -13,15 +13,14 @@
   "bin": {
     "localhost": "./bin/localhost"
   },
-  "keywords": [
-    "web",
-    "server",
-    "localhost"
-  ],
+  "keywords": ["web", "server", "localhost"],
   "author": "Deconinck Thomas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DCKT/localhost-now/issues"
   },
-  "homepage": "https://github.com/DCKT/localhost-now"
+  "homepage": "https://github.com/DCKT/localhost-now",
+  "devDependencies": {
+    "eslint-config-dck": "^1.0.4"
+  }
 }
